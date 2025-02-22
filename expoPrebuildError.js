@@ -1,0 +1,1 @@
+This error typically occurs when using Expo's `expo prebuild` command, particularly on Windows systems.  The root cause is often related to incorrect environment variables or path configurations which prevent Expo from correctly identifying the necessary tools (like the Android SDK).
